@@ -1,0 +1,1004 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "super_id": 0,
+      "name": "学前",
+      "sub": [
+        {
+          "id": 5,
+          "super_id": 1,
+          "name": "小班",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 5
+            },
+            {
+              "id": 20,
+              "name": "健康",
+              "super_id": 5
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 5
+            },
+            {
+              "id": 22,
+              "name": "社会",
+              "super_id": 5
+            },
+            {
+              "id": 23,
+              "name": "语言",
+              "super_id": 5
+            },
+            {
+              "id": 24,
+              "name": "科学",
+              "super_id": 5
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "super_id": 1,
+          "name": "中班",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 6
+            },
+            {
+              "id": 20,
+              "name": "健康",
+              "super_id": 6
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 6
+            },
+            {
+              "id": 22,
+              "name": "社会",
+              "super_id": 6
+            },
+            {
+              "id": 23,
+              "name": "语言",
+              "super_id": 6
+            },
+            {
+              "id": 24,
+              "name": "科学",
+              "super_id": 6
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "super_id": 1,
+          "name": "大班",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 7
+            },
+            {
+              "id": 20,
+              "name": "健康",
+              "super_id": 7
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 7
+            },
+            {
+              "id": 22,
+              "name": "社会",
+              "super_id": 7
+            },
+            {
+              "id": 23,
+              "name": "语言",
+              "super_id": 7
+            },
+            {
+              "id": 24,
+              "name": "科学",
+              "super_id": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "super_id": 0,
+      "name": "小学",
+      "sub": [
+        {
+          "id": 8,
+          "super_id": 2,
+          "name": "一年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 8
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 8
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 8
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 8
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 8
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 8
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 8
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 8
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 8
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 8
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "super_id": 2,
+          "name": "二年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 9
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 9
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 9
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 9
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 9
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 9
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 9
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 9
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 9
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 9
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "super_id": 2,
+          "name": "三年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 10
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 10
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 10
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 10
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 10
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 10
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 10
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 10
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 10
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 10
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "super_id": 2,
+          "name": "四年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 11
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 11
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 11
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 11
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 11
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 11
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 11
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 11
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 11
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 11
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "super_id": 2,
+          "name": "五年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 12
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 12
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 12
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 12
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 12
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 12
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 12
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 12
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 12
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 12
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "super_id": 2,
+          "name": "六年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 13
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 13
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 13
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 13
+            },
+            {
+              "id": 28,
+              "name": "自然与科学",
+              "super_id": 13
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 13
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 13
+            },
+            {
+              "id": 31,
+              "name": "品德",
+              "super_id": 13
+            },
+            {
+              "id": 32,
+              "name": "信息技术",
+              "super_id": 13
+            },
+            {
+              "id": 21,
+              "name": "艺术",
+              "super_id": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "super_id": 0,
+      "name": "初中",
+      "sub": [
+        {
+        "id": 13,
+        "super_id": 3,
+        "name": "六年级",
+        "sub": [
+          {
+            "id": 99,
+            "name": "全部",
+            "super_id": 13
+          },
+          {
+            "id": 25,
+            "name": "语文",
+            "super_id": 13
+          },
+          {
+            "id": 26,
+            "name": "数学",
+            "super_id": 13
+          },
+          {
+            "id": 27,
+            "name": "英语",
+            "super_id": 13
+          },
+          {
+            "id": 33,
+            "name": "政治",
+            "super_id": 13
+          },
+          {
+            "id": 34,
+            "name": "历史",
+            "super_id": 13
+          },
+          {
+            "id": 35,
+            "name": "体育",
+            "super_id": 13
+          },
+          {
+            "id": 29,
+            "name": "美术",
+            "super_id": 13
+          },
+          {
+            "id": 30,
+            "name": "音乐",
+            "super_id": 13
+          },
+          {
+            "id": 36,
+            "name": "劳技",
+            "super_id": 13
+          },
+          {
+            "id": 37,
+            "name": "生物",
+            "super_id": 13
+          },
+          {
+            "id": 38,
+            "name": "物理",
+            "super_id": 13
+          },
+          {
+            "id": 39,
+            "name": "化学",
+            "super_id": 13
+          }
+        ]
+      },
+        {
+          "id": 14,
+          "super_id": 3,
+          "name": "七年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 14
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 14
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 14
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 14
+            },
+            {
+              "id": 33,
+              "name": "政治",
+              "super_id": 14
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 14
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 14
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 14
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 14
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 14
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 14
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 14
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 14
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "super_id": 3,
+          "name": "八年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 15
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 15
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 15
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 15
+            },
+            {
+              "id": 33,
+              "name": "政治",
+              "super_id": 15
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 15
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 15
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 15
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 15
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 15
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 15
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 15
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 15
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "super_id": 3,
+          "name": "九年级",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 16
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 16
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 16
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 16
+            },
+            {
+              "id": 33,
+              "name": "政治",
+              "super_id": 16
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 16
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 16
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 16
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 16
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 16
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 16
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 16
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "super_id": 0,
+      "name": "高中",
+      "sub": [
+        {
+          "id": 17,
+          "super_id": 4,
+          "name": "高一",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 17
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 17
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 17
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 17
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 17
+            },
+            {
+              "id": 40,
+              "name": "思想政治",
+              "super_id": 17
+            },
+            {
+              "id": 41,
+              "name": "地理",
+              "super_id": 17
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 17
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 17
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 17
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 17
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 17
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 17
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 17
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "super_id": 4,
+          "name": "高二",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 18
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 18
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 18
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 18
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 18
+            },
+            {
+              "id": 40,
+              "name": "思想政治",
+              "super_id": 18
+            },
+            {
+              "id": 41,
+              "name": "地理",
+              "super_id": 18
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 18
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 18
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 18
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 18
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 18
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 18
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 18
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "super_id": 4,
+          "name": "高三",
+          "sub": [
+            {
+              "id": 99,
+              "name": "全部",
+              "super_id": 19
+            },
+            {
+              "id": 25,
+              "name": "语文",
+              "super_id": 19
+            },
+            {
+              "id": 26,
+              "name": "数学",
+              "super_id": 19
+            },
+            {
+              "id": 27,
+              "name": "英语",
+              "super_id": 19
+            },
+            {
+              "id": 34,
+              "name": "历史",
+              "super_id": 19
+            },
+            {
+              "id": 40,
+              "name": "思想政治",
+              "super_id": 19
+            },
+            {
+              "id": 41,
+              "name": "地理",
+              "super_id": 19
+            },
+            {
+              "id": 39,
+              "name": "化学",
+              "super_id": 19
+            },
+            {
+              "id": 38,
+              "name": "物理",
+              "super_id": 19
+            },
+            {
+              "id": 37,
+              "name": "生物",
+              "super_id": 19
+            },
+            {
+              "id": 35,
+              "name": "体育",
+              "super_id": 19
+            },
+            {
+              "id": 29,
+              "name": "美术",
+              "super_id": 19
+            },
+            {
+              "id": 30,
+              "name": "音乐",
+              "super_id": 19
+            },
+            {
+              "id": 36,
+              "name": "劳技",
+              "super_id": 19
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
